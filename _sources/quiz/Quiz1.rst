@@ -14,7 +14,7 @@ Quiz - 1
         .. activecode:: q1_1
             :nocodelens:
 
-            Haga un programa que en una funcion pida dos números enteros y devuelva la suma de esos dos números. |br|
+            Haga un programa que pida dos números enteros e imprima la suma de esos dos números. |br|
    
             ~~~~
             def suma(n, m):

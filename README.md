@@ -8,27 +8,11 @@ Versión preliminar en linea:
 
  * http://pyar.github.io/PyZombis/
 
-### Contenidos:
+Contenidos:
 
  * [lectures](/_sources/lectures): presentaciones para preparar las clases (vídeos)
  * [lab](lab): trabajos prácticos semanales (guía de ejercicios) con evaluación y calificación automatizada, implementados para el Laboratorio Virtual de Programación [VPL](http://vpl.dis.ulpgc.es/) de Moodle
  * [quiz](/_sources/quiz): cuestionarios rápidos con problemas simples de programación a implementar con [CodeRunner](http://coderunner.org.nz/) en Moodle
-
-### Quick Start
-
-Dev tutorial: https://github.com/PyAr/PyZombis/wiki/Development-HOW-TO
-
-### Docker Environment
-
-To run the project in a Docker environment, run the following;
-
-```
-docker build . -t pyzombis
-docker run -p 127.0.0.1:4000:4000/tcp pyzombis
-
-```
-
-Open your browser and access the resources on 127.0.0.1:4000
 
 ## Licencia
 
